@@ -1,1 +1,1 @@
-# E-WALLET-SYSTEM
+The eWallet System project aims to provide a secure and convenient digital wallet solution for users to manage their funds, make transactions, and perform financial activities seamlessly. It offers a robust platform with features tailored for both individual users and businesses, ensuring efficient and reliable electronic payments.
